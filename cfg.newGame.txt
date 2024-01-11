@@ -1,0 +1,14 @@
+# Bottle capacity (Min 8)
+8
+
+# Total number of bottles in the game (Max 10)
+10
+
+# Available symbols (Must contain 9 different symbols)
+@#%$!+o?§
+
+# Identifying letters for the bottles (Must contain 10 different letters)
+ABCDEFGHIJ
+
+# Expertise (options: random; 1; 2; 3; 4; 5)
+random
