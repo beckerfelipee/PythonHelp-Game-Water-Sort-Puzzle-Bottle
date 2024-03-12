@@ -1,5 +1,5 @@
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&">
-  <img align="right" alt="Python-help" height="90" src="https://media.discordapp.net/attachments/770989141134671925/1160181141756706906/image-removebg-preview.png?ex=6533b9e3&is=652144e3&hm=38c9a6a74f7ee108380772ca664e4d2a756213a4e39130489e97fc0806fb8025">
+  <img align="right" alt="Python-help" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 
 # Water Sort Puzzle Bottle Game
@@ -12,7 +12,7 @@ I'm thrilled to share with you the 'Water Sort Puzzle Bottle Game,' a collaborat
 
 The Water Sort Puzzle Bottle Game is a Python-based puzzle game where players aim to organize liquids in bottles following specific rules. The game involves strategic moves to avoid errors and fill bottles correctly.
 
-![Game Screenshot](https://cdn.discordapp.com/attachments/896421524200914954/1194994281719537765/image.png?ex=65b26026&is=659feb26&hm=6b3cda6c77449020e2a70a2e14771e70f989b87c759d724ebd3c491becb1e253&)
+![Game Screenshot](https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/BottlesSortPuzzle/Screenshot.png)
 
 ## Key Concepts Covered:
 
